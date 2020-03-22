@@ -13,10 +13,7 @@ patterns of portfolio investments and returns. The predictions about fund portfo
 covariance with payoff shocks, cross-fund portfolio and return dispersion, and
 their excess returns are all supported by the data. These findings offer new evidence
 that some investment managers have skill and that attention is allocated rationally.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://scatterr.github.io/files/Kacperczyk_et_al-2016-ECT.pdf'
-citation: 'Kacperczyk, Van Nieuwerburgh, and Veldkamp. "A rational theory of mutual funds' attention allocation" <i>Econometrica</i>. Vol. 84, No. 2 (March, 2016), 571–626.'
+date: 2020-03-22
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
