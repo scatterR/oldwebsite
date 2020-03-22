@@ -3,6 +3,7 @@ title: "A rational theory of mutual funds' attention allocation"
 collection: publications
 permalink: /publication/2020-03-22-Kacperczyk-and-et-al.md
 excerpt: 'A theory relates the attention allocation of mutual fund managers to business cycles.'
+venue: ''
 date: 2020-03-22
 ---
 Abstract: The question of whether and how mutual fund managers provide valuable services
