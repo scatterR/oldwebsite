@@ -1,8 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "A rational theory of mutual funds' attention allocation"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'The question of whether and how mutual fund managers provide valuable services
+permalink: /publication/2020-03-22-Kacperczyk-and-et-al
+excerpt: 'A theory relates the attention allocation of mutual fund managers to business cycles.'
+date: 2020-03-22
+---
+Abstract: The question of whether and how mutual fund managers provide valuable services
 for their clients motivates one of the largest literatures in finance. One candidate explanation
 is that funds process information about future asset values and use that information
 to invest in high-valued assets. But formal theories are scarce because information
@@ -12,10 +15,7 @@ state of the business cycle to predict information choices, which in turn, predi
 patterns of portfolio investments and returns. The predictions about fund portfolios’
 covariance with payoff shocks, cross-fund portfolio and return dispersion, and
 their excess returns are all supported by the data. These findings offer new evidence
-that some investment managers have skill and that attention is allocated rationally.'
-date: 2020-03-22
----
-This paper is about the number 1. The number 2 is left for future work.
+that some investment managers have skill and that attention is allocated rationally.
 
 [Download paper here](http://scatterr.github.io/files/Kacperczyk_et_al-2016-ECT.pdf)
 
