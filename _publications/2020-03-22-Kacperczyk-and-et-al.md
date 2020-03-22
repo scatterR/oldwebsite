@@ -5,7 +5,7 @@ permalink: /publication/2020-03-22-Kacperczyk-and-et-al
 excerpt: 'A theory relates the attention allocation of mutual fund managers to business cycles.'
 venue: 'Econometrica'
 paperurl: 'http://scatterr.github.io/files/Kacperczyk_et_al-2016-ECT.pdf'
-date: 2020-03-22
+date: 2016-03
 ---
 Abstract: The question of whether and how mutual fund managers provide valuable services
 for their clients motivates one of the largest literatures in finance. One candidate explanation
