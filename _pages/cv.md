@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Finance, Stockholm School of Economics, Sweden, 2015-2021 (expected)
+* M.A. in Economics, Simon Fraser University, Canada, 2013-2015
+* B.Sc in Mathematics, Wuhan University, China, 2009-2013
+* B.A. in Economics, Wuhan University, China, 2009-2013
 
 Work experience
 ======
