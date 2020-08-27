@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Finance, Stockholm School of Economics, Sweden, 2015-2021 (expected)
 * M.A. in Economics, Simon Fraser University, Canada, 2013-2015
-* B.Sc in Mathematics, Wuhan University, China, 2009-2013
+* B.Sc in Applied Mathematics, Wuhan University, China, 2009-2013
 * B.A. in Economics, Wuhan University, China, 2009-2013
 
 Work experience
@@ -42,19 +42,12 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Corporate Finance (Master, Stockholm School of Economics, 2016 and 2021)
+    * Lecturer: Prof. Bo Becker
+* Applied Financial Econometrics (Master, Stockholm School of Economics, 2018-2020) 
+    * Lecturer: Prof. Riccardo Sabbatucci
+* Derivatives in Investment Management (Bachelor, Stockholm School of Economics, 2017)
+    * Lecturer: Prof. Irina Zviadadze 
